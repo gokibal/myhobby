@@ -3,7 +3,7 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-Code in the time of AI is a journey through the world of programming and computer science during the time when artificial intelligence is all the fad. I will be learning programming to see what the fuss regarding AI severely impacting software development roles is all about. Will AI actually help me learn coding? Will it make me a better programmer? will I get a job or will AI stand in the way taking away my job? follow me on my interpid journey.Stupid github push my fucking changes.
+Code in the time of AI is a journey through the world of programming and computer science during the time when artificial intelligence is all the fad. I will be learning programming to see what the fuss regarding AI severely impacting software development roles is all about. Will AI actually help me learn coding? Will it make me a better programmer? will I get a job or will AI stand in the way taking away my job? follow me on my interpid journey.Stupid github push my fucking changes. oh my god this is frustrating. get the commit pushed mother****.
 
 <div>
   <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
