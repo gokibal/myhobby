@@ -4,12 +4,12 @@ export const SITE: Site = {
   website: "https://astro-paper.pages.dev/", // replace this with your deployed domain
   author: "Sat Naing",
   profile: "https://satnaing.dev/",
-  desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
-  title: "AstroPaper",
+  desc: " Learning Computer science in the time of AI",
+  title: "CS in the time of AI",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerIndex: 4,
-  postPerPage: 3,
+  postPerPage: 6,
   scheduledPostMargin: 15 * 60 * 1000, // 15 minutes
   showArchives: true,
   editPost: {
